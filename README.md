@@ -11,8 +11,15 @@ A lot of factors can be considered while designing a movie recommendation system
 # How to run?
 open miproject5000.ipynb and run that code in any platform.
 
+# Output SCreenshots 
+
 ![image](https://github.com/user-attachments/assets/9d45c987-a3f4-4484-903b-76ed86dc6f35)
+
+
 ![image](https://github.com/user-attachments/assets/c884c5f9-47f4-4aed-a0bf-3f7dbfcd2ced)
-![Uploading image.png…]()
+
+
+![image](https://github.com/user-attachments/assets/caa028b4-17f5-4d69-b53f-59bc56749636)
+
 
 
